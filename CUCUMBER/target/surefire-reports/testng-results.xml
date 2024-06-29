@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-28T10:20:10 IST" name="Suite" finished-at="2024-06-28T10:20:31 IST" duration-ms="21346">
+    <groups>
+    </groups>
+    <test started-at="2024-06-28T10:20:10 IST" name="Test" finished-at="2024-06-28T10:20:31 IST" duration-ms="21346">
+      <class name="com.company.tests.LoginTest">
+        <test-method is-config="true" signature="Initialisation()[pri:0, instance:com.company.tests.LoginTest@6db9f5a4]" started-at="2024-06-28T10:20:10 IST" name="Initialisation" finished-at="2024-06-28T10:20:17 IST" duration-ms="6704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialisation -->
+        <test-method signature="LoginPageTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.company.tests.LoginTest@6db9f5a4]" started-at="2024-06-28T10:20:23 IST" name="LoginPageTest" data-provider="testdata" finished-at="2024-06-28T10:20:30 IST" duration-ms="7020" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Capgemini_EU_Test_1]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[CGEU Test 1]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[CG_INFRA_SUPPORT]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Functionality]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Chat]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Authetication error]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Authetication error]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Restart]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[QA]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="23">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="24">
+              <value>
+                <![CDATA[INC2217878]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.company.tests.LoginTest@6db9f5a4]" started-at="2024-06-28T10:20:30 IST" name="tearDown" finished-at="2024-06-28T10:20:31 IST" duration-ms="474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.company.tests.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
